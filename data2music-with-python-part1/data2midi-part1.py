@@ -8,6 +8,13 @@ www.astromattrusso.com
 www.system-sounds.com
 """
 
+#### install libraries (with pip) if necesssary################################
+# import sys
+# import subprocess
+# for package in ['pandas','matplotlib', 'audiolazy', 'midiutil']:
+#     subprocess.check_call([sys.executable, '-m', 'pip', 'install', package])
+
+################################################
 import pandas as pd   # https://pypi.org/project/pandas/
 import matplotlib.pylab as plt  # https://pypi.org/project/matplotlib/
 from audiolazy import str2midi # https://pypi.org/project/audiolazy/
@@ -52,7 +59,7 @@ duration_sec = max(t_data)*60/bpm #duration in seconds (actually, onset of last 
 print('Duration:',duration_sec,'seconds')
 
 ## Normalize and scale y-axis data
-y_data = map_value(diameters, min(diameters), max(diameters), 0, 1) #normalize data, so it runs from 0 to 1
+y_data = map_value(diameters, min(diameters), max(diameters), 0, 1) #normalize data, so it runs from 0 to 1 (makes scaling easier)
 y_data = y_data**y_scale
 
 ## Make list of MIDI numbers of chosen notes for mapping
