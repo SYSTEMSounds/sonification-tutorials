@@ -1,6 +1,8 @@
+(data2music-with-python-part1/figures/matt-ted-thin.jpg)
+
 # sonification-tutorials
 
-A collection of tutorials on data sonification with python.
+A collection of tutorials on data sonification with python by [SYSTEM Sounds](www.system-sounds.com).
 
 ## Convert Data To Music With Python (Part 1)
 - map data to musical pitches and volumes
