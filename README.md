@@ -1,4 +1,4 @@
-[](data2music-with-python-part1/figures/matt-ted-thin.jpg)
+![Matt Russo performing his TEDx talk](data2music-with-python-part1/figures/matt-ted-thin.jpg)
 
 # sonification-tutorials
 
