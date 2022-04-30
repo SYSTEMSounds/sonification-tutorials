@@ -2,12 +2,12 @@
 
 # sonification-tutorials
 
-A collection of tutorials on data sonification with python by [SYSTEM Sounds](www.system-sounds.com).
+A collection of tutorials on data sonification with python by [SYSTEM Sounds](https://www.system-sounds.com/).
 
 ## Convert Data To Music With Python (Part 1)
 - map data to musical pitches and volumes
 - video tutorial avaiable on [youtube](https://www.youtube.com/watch?v=YgLvfLxVWvU)
-- web-based interactive version of code: https://bit.ly/3KsYTmz 
+- web-based interactive version of code: https://bit.ly/3KsYTmz
 - [Moon Impacts Converted Into Music](https://www.youtube.com/watch?v=ANYxkwvb8pc)
 
 
