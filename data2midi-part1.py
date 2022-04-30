@@ -45,7 +45,7 @@ def map_value(value,min_value,max_value,min_result,max_result):
 ##############################################################################
 
 ## Load data
-df = pd.read_csv(filename + '.csv')  #load data as a pandas dataframe
+df = pd.read_csv('./data/' +filename + '.csv')  #load data as a pandas dataframe
 n_impacts = len(df)
 
 ages = df['age'].values    #this is a numpy array (not a list), you can do mathematical operations directly on the object
