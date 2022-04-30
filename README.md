@@ -1,4 +1,4 @@
-![Image of Moon surface with data overlaid](figures/moon_data.jpg?raw=true)
+![Image of Moon surface with data overlaid](figures/moon_data_code.jpg?raw=true)
 
 # sonification-tutorials
 
