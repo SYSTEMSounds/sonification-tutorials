@@ -17,7 +17,5 @@ A collection of tutorials on data sonification with python by [SYSTEM Sounds](ht
 - work with tabular and image data
 - video tutorial and code available only on [Gumroad](https://astromattrusso.gumroad.com/l/data2music-part2)
 
-Complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSef30tY78hr6cl5lHc91a1pCiqU6GPOa1BletNFg0pOH3JuwA/viewform) to let me know which topics to cover next.
-
 www.system-sounds.com
 www.astromattrusso.com
