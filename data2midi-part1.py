@@ -17,8 +17,10 @@ www.system-sounds.com
 ################################################
 import pandas as pd   # https://pypi.org/project/pandas/
 import matplotlib.pylab as plt  # https://pypi.org/project/matplotlib/
-from audiolazy import str2midi # https://pypi.org/project/audiolazy/
+#from audiolazy import str2midi # https://pypi.org/project/audiolazy/
+from audiolazy_functions import str2midi 
 from midiutil import MIDIFile # https://midiutil.readthedocs.io/en/1.2.1/
+
 
 ##############################################################################
 filename = 'lunarCraterAges'  #filename of csv with data
